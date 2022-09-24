@@ -2,6 +2,8 @@
 #include <unordered_set>
 #include <iostream>
 #include <list>
+#include <memory>
+
 
 int main()
 {
